@@ -80,7 +80,7 @@ To evaluate the trained model run the following script.
 ```
 python evaluate.py
 ```
-Trained models for all three datasets can be found [here] (https://drive.google.com/drive/folders/1D6vT-kEZ2ewZTAJpLWqbNix33wwVziP9?usp=sharing)
+Trained models for all three datasets can be found [here](https://drive.google.com/drive/folders/1D6vT-kEZ2ewZTAJpLWqbNix33wwVziP9?usp=sharing)
 
 ## Acknowledgements
 The code for training and evaluation is borrowed from [Pointnet++](https://github.com/charlesq34/pointnet2) and that of Annular Convolution is borrowed from [ACNN](https://github.com/artemkomarichev/a-cnn.git)
