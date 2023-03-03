@@ -84,3 +84,14 @@ Trained models for all three datasets can be found [here](https://drive.google.c
 
 ## Acknowledgements
 The code for training and evaluation is borrowed from [Pointnet++](https://github.com/charlesq34/pointnet2) and that of Annular Convolution is borrowed from [ACNN](https://github.com/artemkomarichev/a-cnn.git)
+
+## Citation
+If you find our work useful in your research, please cite our work:
+
+@article{hassan2023residual,
+  title={Residual Learning with Annularly Convolutional Neural Networks for Classification and Segmentation of 3D Point Clouds},
+  author={Hassan, R and Fraz, MM and Rajput, A and Shahzad, M},
+  journal={Neurocomputing},
+  year={2023},
+  publisher={Elsevier}
+}
